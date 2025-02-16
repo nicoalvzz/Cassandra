@@ -83,6 +83,3 @@ Para consultar el documento, simplemente sigue el índice detallado en la secci�
 ## Contacto
 Para cualquier consulta, puedes contactar a través de GitHub o por correo electrónico.
 
----
-Este README proporciona una visión general clara de tu trabajo final sobre Cassandra. ¡Espero que te sea útil!
-
